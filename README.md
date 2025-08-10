@@ -39,12 +39,12 @@ Whether you want to explore documentation, understand a repository, or get insig
 
 ## 📂 Project Structure
 📦 CrawlMate
-┣ 📜 crawl_file.py # Async web crawler using Crawl4AI
-┣ 📜 main.py # Vector store creation & RAG pipeline
-┣ 📜 frontend.py # Streamlit chat UI
-┣ 📂 data # Crawled markdown files
-┣ 📂 chroma_db # Persistent vector store
-┗ 📜 requirements.txt # Dependencies
+-- ┣ 📜 crawl_file.py # Async web crawler using Crawl4AI
+-- ┣ 📜 main.py # Vector store creation & RAG pipeline
+-- ┣ 📜 frontend.py # Streamlit chat UI
+-- ┣ 📂 data # Crawled markdown files
+-- ┣ 📂 chroma_db # Persistent vector store
+-- ┗ 📜 requirements.txt # Dependencies
 
 ---
 
