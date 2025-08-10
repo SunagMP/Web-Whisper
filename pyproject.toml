@@ -1,0 +1,22 @@
+[project]
+name = "rag-using-crawl4ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chroma>=0.2.0",
+    "crawl4ai>=0.7.3",
+    "langchain>=0.3.27",
+    "langchain-chroma>=0.2.5",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.74",
+    "langchain-experimental>=0.3.4",
+    "langchain-groq>=0.3.7",
+    "langchain-openai>=0.3.29",
+    "markdown>=3.8.2",
+    "openai>=1.99.5",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.48.0",
+    "unstructured[md]>=0.18.11",
+]
