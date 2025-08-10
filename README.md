@@ -1,4 +1,4 @@
-# Web-Whisper – LLM Powered Crawling & RAG Chat Application
+# Web Whisper – LLM Powered Crawling & RAG Chat Application
 
 Web-Whisper is an **LLM-powered Retrieval-Augmented Generation (RAG)** application that can **crawl websites, GitHub repositories, and official documents**, then let you **chat with the extracted content** in real-time.
 
